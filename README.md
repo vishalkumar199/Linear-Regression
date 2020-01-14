@@ -36,3 +36,8 @@ The Dataset has to be imported from sklearn.datasets.
 **Model Performance Metrics**
   * mean_squared_error
   * r2 score
+## Python Library (required)
+* tqdm (**pip install tqdm**)
+  *  add progress bars to Python code.
+* pandas_profiling(**pip install pandas_profiling**)
+    * used for EDA
